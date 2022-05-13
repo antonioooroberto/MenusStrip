@@ -1,0 +1,11 @@
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\bin\Debug\atividadeCor.exe.config
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\bin\Debug\atividadeCor.exe
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\bin\Debug\atividadeCor.pdb
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.Form1.resources
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.Properties.Resources.resources
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.exe
+H:\Visual Studio 2022\Projects\atividadeCor\atividadeCor\obj\Debug\atividadeCor.pdb
